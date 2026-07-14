@@ -9,6 +9,8 @@
   --acid: #e3ff71;
   --line: rgba(7, 20, 22, 0.16);
   --muted: #667171;
+  --font-geist-sans: Arial, Helvetica, sans-serif;
+  --font-geist-mono: "Courier New", monospace;
 }
 
 * { box-sizing: border-box; }
