@@ -1,8 +1,14 @@
-# vinext-starter
+# Hannah's Wealth Horizon
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+A personalized, interactive roadmap for financial independence, resilience and
+generational wealth: a 10-year family plan.
+
+**Live site:** <https://lipford-dutch.github.io/Hannah-Huffman-Wealth-Horizon/>
+
+The app lives in `app/` (`app/WealthHorizon.tsx` is the main view) and is
+published to GitHub Pages by `.github/workflows/deploy-pages.yml`. It is built
+on the [vinext](https://github.com/cloudflare/vinext) full-stack starter, with
+optional Cloudflare D1 and Drizzle support.
 
 ## Prerequisites
 
